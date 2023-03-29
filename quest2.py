@@ -1,5 +1,6 @@
 import types
 
+
 def flat_generator(list_of_lists):
     list_result = []
     for i in list_of_lists:
